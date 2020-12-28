@@ -1,6 +1,7 @@
 # Python Programming
 
 ## Introduction to Python
+![gitam](emblem.png)  
 Hello world  
 The steps we did...  
 ### GIT CONFIGURATION  

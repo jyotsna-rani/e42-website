@@ -31,6 +31,6 @@ step 1. Create repository
 step 2. Copy commands from git wesite to bash  
 step 3. Login from local machine to git repository  
 Step 4. Check for the content we have edited in Git Repository in a form of Website  
-### Discussion on posting images on GIT repository
+### Discussion on posting images on GIT repository class-2
 ### Discussion on Hypothesis  class-3 
 Read about CLI and summarize the content
